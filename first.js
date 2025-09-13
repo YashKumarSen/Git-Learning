@@ -13,3 +13,6 @@ const upi="Integrated the upi information";
 console.log(upi);
 
 console.log("latest changes");
+
+// i'm fixing sum bug
+console.log("Bug Fixed");
